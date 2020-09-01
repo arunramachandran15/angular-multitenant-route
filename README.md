@@ -1,6 +1,6 @@
 # NgDemo
 
-To run this project click [Angular Demo](https://swapnil-bawkar.github.io/Angular2Demo/dist/index.html) version 1.0.0.
+To run this project click [Angular Demo](https://swapnil-bawkar.github.io/dist/index.html) version 1.0.0.
 
 ## Development server
 
